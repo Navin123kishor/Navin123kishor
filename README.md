@@ -1,5 +1,5 @@
 ![logo](github-header-image.png)
-<h1 align="center">Hi 👋, I'm Navin Kishor</h1>
+
 <h3 align="center">A passionate Java , Android developer from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://github.com/Navin123kishor/Navin123kishor/assets/103249279/93391b7c-dcf9-4b57-94f6-f55841fa414b">
