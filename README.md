@@ -1,14 +1,14 @@
 ![logo](github-header-image.png)
 
-<h3 align="center">A passionate Java , Android developer from India</h3>
+<h3 align="center">Software Enginner @Cisco </h3>
 
 <img align="right" alt="coding" width="350" src="https://github.com/Navin123kishor/Navin123kishor/assets/103249279/93391b7c-dcf9-4b57-94f6-f55841fa414b">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin123kishor&label=Profile%20views&color=0e75b6&style=flat" alt="navin123kishor" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java , SpringBoot , Python , AI/ML**
 
-- 📫 How to reach me **navin.kishor@iiitg.ac.in**
+- 📫 How to reach me **navin.kishor.iiitg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
